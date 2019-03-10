@@ -1,6 +1,6 @@
 {
     "name": "angle/linked",
-    "description": "Composer Package Template",
+    "description": "Linked List implementation in PHP.",
     "type": "library",
     "license": "MIT",
     "authors": [
